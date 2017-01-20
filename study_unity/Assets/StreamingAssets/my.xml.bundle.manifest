@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2296467928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ee5dfd48e0790478d611621f9e914e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/my.xml
+Dependencies: []

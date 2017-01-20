@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UGUI/Taike_UGUI_Study/Scenes/04.unity
+  isLoaded: 1
+  isActive: 1
